@@ -1,0 +1,179 @@
+﻿body{
+	background-color: #FFFFFF;
+    margin:0px;
+    padding:0px;
+}
+#allPage{
+	border: 2px solid #000000;
+	padding: 0px;
+	position: relative;
+	width: 718px;
+	height: 534px;
+	margin-right: auto;
+	margin-left: auto;
+	top: 15px;
+}
+
+#blinkIcon{
+	position: absolute;
+	width: 268px;
+	height: 204px;
+	display: block;
+	float: left;
+}
+
+#blinkIcon video,#intro video, #intro img
+{
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	height:auto;
+}
+
+#comLogo{
+	position: absolute;
+	width: 450px;
+	height: 204px;
+	left: 268px;
+	background-image: url('../images/colleen_patterson_header_02.jpg');
+}
+
+#intro{
+    position: absolute;
+    width: 718px;
+    height: 330px;
+    top: 204px;
+}
+
+#intro img{
+	position:relative;
+	width: 100%;
+	height: 100%;	
+	display: none;
+}
+
+#intro img:hover{
+	cursor: pointer;
+	-webkit-transform: scale(1.2);
+  	-moz-transform: scale(1.2);
+  	-ms-transform: scale(1.2);
+  	-o-transform: scale(1.2);
+  	transform: scale(1.2);  
+}
+
+#intro span {
+    display: none;
+}
+
+
+#btn1ArrowArea{
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 491px;
+	top: 230px;
+}
+
+#btn1TextArea{
+	position: absolute;
+	width: auto;
+	height: 15px;
+	left: 405px;
+	top: 230px;
+}
+
+#btn2ArrowArea{
+	position: absolute;
+	width: 24px;
+	height: 20px;
+	left: 500px;
+	top: 175px;
+}
+
+#btn2TextArea{
+	position: absolute;
+	width: auto;
+	height: 15px;
+	left: 345px;
+	top: 172px;
+}
+
+#btn3ArrowArea{
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 528px;
+	top: 134px;
+}
+
+#btn3TextArea{
+	position: absolute;
+	width: auto;
+	height: 15px;
+	left: 374px;
+	top: 126px;
+}
+
+#btn4ArrowArea{
+	position: absolute;
+	width: 21px;
+	height: 25px;
+	left: 570px;
+	top: 105px;
+}
+
+#btn4TextArea{
+	position: absolute;
+	width: auto;
+	height: 15px;
+	left: 438px;
+	top: 82px;
+}
+
+#btn5ArrowArea{
+	position: absolute;
+	width: 21px;
+	height: 24px;
+	left: 630px;
+	top: 98px;
+}
+
+#btn5TextArea{
+	position: absolute;
+	width: auto;
+	height: 15px;
+	left: 610px;
+	top: 70px;
+}
+
+.cateText{
+    padding: 1px 5px 1px 5px;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    width: auto;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: #000000;
+    font-size: small;
+}
+
+
+.black_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.black_bold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.black_text_lrg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #BF342D;
+}
