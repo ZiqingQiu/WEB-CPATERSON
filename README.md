@@ -2,7 +2,7 @@
 
 [click here to visit the page](http://www.cpaterson.com/)
 
-## Relaunch the website from not working to 724 within 4 days
+## Reprogram the website from not working to 724 within 4 days
 
 **Efforts** including:
 
