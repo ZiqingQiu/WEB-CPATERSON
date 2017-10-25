@@ -16,3 +16,5 @@
 
 
 ![snapshot](snapshot.png)
+
+[![HitCount](http://hits.dwyl.io/ziqingqiu/https://github.com/ZiqingQiu/cpaterson.com.git.svg)](http://hits.dwyl.io/ziqingqiu/https://github.com/ZiqingQiu/cpaterson.com.git)
