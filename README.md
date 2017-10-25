@@ -7,8 +7,9 @@
 **Efforts** including:
 
 * collect requirements
+* refactor HTML, CSS, JavaScript
 * convert video format
-* re-organize file structure
+* reorganize file structure
 * replace deep nest table layout to div
 * cross browser support
 * adopt templates
